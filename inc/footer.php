@@ -23,7 +23,7 @@ At YourDOST, we provide an online counseling and emotional support platform desi
     </div>
     <hr>
     <p class="text-center pb-2 ">
-      © 2021 Copyright: <b>YourDost</b>
+      © 2021 Copyright: <b>YourDost</b> /Vivek Yadav
     </p>
   </footer>
 
